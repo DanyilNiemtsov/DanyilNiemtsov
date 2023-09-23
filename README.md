@@ -13,10 +13,10 @@
 
 <p align="center" style="display: flex; justify-content: center;">
     <img src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/6119885b-2cd2-4fd6-99dc-86ce4016a119"
-        style="width: 45%; margin: 0 10px; border-radius: 10px; box-shadow: 5px 5px rgb(51, 51, 51);"
+        style="width: 45%; margin: 0 20px; border-radius: 10px; box-shadow: 5px 5px rgb(51, 51, 51);"
         alt="Image 1">
     <img src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/0264df32-d494-4ffe-810c-e9d8c92763ea"
-        style="width: 45%; margin: 0 10px; border-radius: 10px; box-shadow: 5px 5px rgb(51, 51, 51);"
+        style="width: 45%; margin: 0 20px; border-radius: 10px; box-shadow: 5px 5px rgb(51, 51, 51);"
         alt="Image 2">
 </p>
 
