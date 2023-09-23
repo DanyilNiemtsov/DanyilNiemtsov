@@ -1,4 +1,4 @@
-<h1 align="center">Welcome, I'm Danyil Niemtsov <a href="https://github.com/DanyilNiemtsov">
+<h1 align="center">Welcome, I'm Danyil Niemtsov>
     <img
       src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png"
       alt="Github"
