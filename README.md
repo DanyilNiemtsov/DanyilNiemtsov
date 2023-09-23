@@ -13,7 +13,7 @@
     <img
       src="https://toppng.com/uploads/preview/instagram-instagram-icon-transparent-background-instagram-logo-11553535401qoy5bqspsk.png"
       alt="Github"
-      style="margin-bottom: 5px; width: 20%;"
+      style="margin-bottom: 5px; width: 20%; background: transparent;"
     />
   </a>
 </p>
