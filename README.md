@@ -13,7 +13,7 @@
     <img
       src="https://www.shareicon.net/data/256x256/2016/07/09/118293_instagram_512x512.png"
       alt="Github"
-      style="margin-bottom: 5px; width: 20%; background: transparent;"
+      style="margin-bottom: 5px; width: 5%; background: transparent;"
     />
   </a>
 </p>
