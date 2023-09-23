@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/DanyilNiemtsov">
     <img
-      src="https://www.svgrepo.com/show/306096/github.svg"
+      src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png"
       alt="Github"
       style="margin-bottom: 5px; width: 5%; border: 2px solid white;"
     />
