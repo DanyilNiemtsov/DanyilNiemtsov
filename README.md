@@ -1,12 +1,9 @@
 <p align="center">
 <img  src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/d3819291-d385-46af-a4a7-038bdb86b97a" alt="banner">
     </p>
-<h1 align="center">Welcome, I'm Danyil Niemtsov
-    <img href="https://github.com/DanyilNiemtsov" src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png"
-      alt="Github"
-      style=" width: 26px;"
-    />
-  </a></h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome!;+I'm+Danyil+Niemtsov;" />
+</h1>
 <h3 align="center">A Front-End Enthusiast from New Zealand.</h3>
 
 
