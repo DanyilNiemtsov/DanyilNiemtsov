@@ -1,4 +1,4 @@
-<img src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/d3819291-d385-46af-a4a7-038bdb86b97a" alt="banner">
+<img align="center" src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/d3819291-d385-46af-a4a7-038bdb86b97a" alt="banner">
 <h1 align="center">Welcome, I'm Danyil Niemtsov
     <img
       src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png"
