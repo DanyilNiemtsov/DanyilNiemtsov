@@ -8,10 +8,10 @@
 
 
 <p align="justify">
-   My journey in web development began in 2019 when I embarked on a school project tasked with creating a website about the solar system using Google Sites. While I didn't delve into programming languages at that time, this project ignited my passion for web development. The process of crafting an engaging and functional website captured my interest and set me on a path to further explore and refine my skills in this dynamic field.
+      My journey in web development began in 2019 when I undertook on a school project tasked with creating a website about the solar system using Google Sites. While I didn't delve into programming languages at that time, this project sparked my passion for web development. The process of crafting an engaging and functional website captured my interest and set me on a path to further explore this dynamic field.
     </p>
     <p align="justify">
-Etiam sollicitudin diam sed dui vehicula scelerisque. Donec vel mauris at odio tempor lacinia. Vestibulum cursus, dolor sed gravida malesuada, elit magna sagittis lectus, eu hendrerit magna sapien at erat. Nunc id augue at nibh efficitur tempor. Cras rutrum dui nec pellentesque fermentum. Vivamus ut tellus commodo, porta odio et, sollicitudin sapien. Integer id bibendum quam. Nam venenatis, tortor eu blandit condimentum, magna mi placerat nibh, non dapibus nisl est ac nulla. Praesent iaculis lacus eget nisi hendrerit bibendum. Sed imperdiet ligula nunc, non varius mi fringilla et. Curabitur aliquet mattis dolor et faucibus. Aliquam sit amet pharetra felis. Ut nec leo tellus. Sed hendrerit nec nibh .
+In 2023, I embarked upon my foray into web development, leveraging the capabilities of HTML, CSS, and JavaScript. My undertakings included the creation of a search engine and a personalized chat application, replete with functionalities such as message composition and image uploads. As time advanced, my commitment to the exploration of varied dimensions within web development endured, affording me the opportunity to uncover new horizons and refine an adaptable skill set.
 </p>
 <p align="center" style="display: flex; justify-content: center;">
     <img src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/6119885b-2cd2-4fd6-99dc-86ce4016a119"
