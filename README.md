@@ -16,7 +16,7 @@
     <p align="center">
 Etiam sollicitudin diam sed dui vehicula scelerisque. Donec vel mauris at odio tempor lacinia. Vestibulum cursus, dolor sed gravida malesuada, elit magna sagittis lectus, eu hendrerit magna sapien at erat. Nunc id augue at nibh efficitur tempor. Cras rutrum dui nec pellentesque fermentum. Vivamus ut tellus commodo, porta odio et, sollicitudin sapien. Integer id bibendum quam. Nam venenatis, tortor eu blandit condimentum, magna mi placerat nibh, non dapibus nisl est ac nulla. Praesent iaculis lacus eget nisi hendrerit bibendum. Sed imperdiet ligula nunc, non varius mi fringilla et. Curabitur aliquet mattis dolor et faucibus. Aliquam sit amet pharetra felis. Ut nec leo tellus. Sed hendrerit nec nibh .
 </p>
-<p style="display: flex; justify-content: center;">
+<p align="center" style="display: flex; justify-content: center;">
 <img src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/6119885b-2cd2-4fd6-99dc-86ce4016a119" style="width: 45%; margin-bottom: 20px; margin-right: 10px; border-radius: 10px; box-shadow: 5px 5px rgb(51, 51, 51);"><img src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/0264df32-d494-4ffe-810c-e9d8c92763ea" style="width: 45%; margin-bottom: 20px; margin-left: 10px; border-radius: 10px; box-shadow: 5px 5px rgb(51, 51, 51);">
 </p>
 
