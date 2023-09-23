@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/DanyilNiemtsov">
     <img
-      src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head.png"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"
       alt="Github"
       style="margin-bottom: 5px;"
     />
