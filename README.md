@@ -4,9 +4,9 @@
 <p align="center">
   <a href="https://github.com/DanyilNiemtsov">
     <img
-      src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head.png"
+      src="https://www.svgrepo.com/show/306096/github.svg"
       alt="Github"
-      style="margin-bottom: 5px;"
+      style="margin-bottom: 5px; width: 5%; border: 2px solid white;"
     />
   </a>
 <a href="https://github.com/DanyilNiemtsov">
