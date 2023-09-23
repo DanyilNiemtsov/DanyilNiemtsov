@@ -1,8 +1,8 @@
-<h1 align="center">Welcome, I'm Danyil Niemtsov>
+<h1 align="center">Welcome, I'm Danyil Niemtsov
     <img
       src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png"
       alt="Github"
-      style=" width: 2.5%;"
+      style=" width: 2.8%;"
     />
   </a></h1>
 <h3 align="center">A Front-End Enthusiast from New Zealand.</h3>
