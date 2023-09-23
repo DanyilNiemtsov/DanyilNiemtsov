@@ -6,7 +6,7 @@
     <img
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png"
       alt="Github"
-      style="margin-bottom: 5px; width: 5%;"
+      style="margin-bottom: 5px; width: 5%; color: white;"
     />
   </a>
 <a href="https://github.com/DanyilNiemtsov">
