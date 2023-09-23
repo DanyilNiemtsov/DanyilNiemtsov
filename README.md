@@ -11,7 +11,7 @@
   </a>
 <a href="https://github.com/DanyilNiemtsov">
     <img
-      src="https://icones.pro/wp-content/uploads/2021/02/instagram-icone-gris.png"
+      src="https://www.shareicon.net/data/256x256/2016/07/09/118293_instagram_512x512.png"
       alt="Github"
       style="margin-bottom: 5px; width: 20%; background: transparent;"
     />
