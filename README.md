@@ -1,4 +1,5 @@
-<img src="https://www.canva.com/design/DAFvObtd-2A/VNFVzDi2iniCHTck0GnwKQ/view?utm_content=DAFvObtd-2A&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="">
+<img src="![Your paragraph text](https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/d3819291-d385-46af-a4a7-038bdb86b97a)
+" alt="">
 <h1 align="center">Welcome, I'm Danyil Niemtsov
     <img
       src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png"
