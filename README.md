@@ -9,7 +9,7 @@
     />
   </a></h1>
 <h3 align="center">A Front-End Enthusiast from New Zealand.</h3>
-<p align center>
+<p align="center">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque auctor tristique neque at feugiat. Maecenas feugiat ipsum massa, eget vestibulum est aliquam a. Phasellus euismod velit pulvinar lorem volutpat efficitur. Curabitur faucibus turpis at arcu luctus fringilla. Vestibulum ut risus venenatis, varius dolor ac, tincidunt sapien. Etiam sodales at sem nec blandit. Integer posuere est ultrices libero tempor, eu auctor dui volutpat.
 
 Etiam sollicitudin diam sed dui vehicula scelerisque. Donec vel mauris at odio tempor lacinia. Vestibulum cursus, dolor sed gravida malesuada, elit magna sagittis lectus, eu hendrerit magna sapien at erat. Nunc id augue at nibh efficitur tempor. Cras rutrum dui nec pellentesque fermentum. Vivamus ut tellus commodo, porta odio et, sollicitudin sapien. Integer id bibendum quam. Nam venenatis, tortor eu blandit condimentum, magna mi placerat nibh, non dapibus nisl est ac nulla. Praesent iaculis lacus eget nisi hendrerit bibendum. Sed imperdiet ligula nunc, non varius mi fringilla et. Curabitur aliquet mattis dolor et faucibus. Aliquam sit amet pharetra felis. Ut nec leo tellus. Sed hendrerit nec nibh quis pretium.
