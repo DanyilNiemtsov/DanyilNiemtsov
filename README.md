@@ -2,7 +2,7 @@
     <img
       src="https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png"
       alt="Github"
-      style=" width: 3.5%; border: 2px solid white; border-radius: 100%"
+      style=" width: 3%; border: 2px solid #e9ecec; border-radius: 100%"
     />
   </a></h1>
 <h3 align="center">A Front-End Enthusiast from New Zealand.</h3>
