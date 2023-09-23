@@ -2,7 +2,7 @@
 <img  src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/d3819291-d385-46af-a4a7-038bdb86b97a" alt="banner">
     </p>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=open+sans&weight=600&size=25&pause=1000&color=E9E9E9&width=435&lines=Welcome!+I'm+Danyil+Niemtsov;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=open+sans&weight=600&size=25&pause=1000&color=E9E9E9&height=40&lines=Welcome!+I'm+Danyil+Niemtsov" />
 </h1>
 <h3 align="center">A Front-End Enthusiast from New Zealand.</h3>
 
