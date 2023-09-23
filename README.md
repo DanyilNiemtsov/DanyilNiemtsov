@@ -9,13 +9,6 @@
       style="margin-bottom: 5px; width: 5%; border: 2px solid white;"
     />
   </a>
-<a href="https://github.com/DanyilNiemtsov">
-    <img
-      src="https://www.shareicon.net/data/256x256/2016/07/09/118293_instagram_512x512.png"
-      alt="Github"
-      style="margin-bottom: 5px; width: 5%; background: transparent;"
-    />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
