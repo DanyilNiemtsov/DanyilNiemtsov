@@ -27,5 +27,5 @@ Etiam sollicitudin diam sed dui vehicula scelerisque. Donec vel mauris at odio t
 
 
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css,wasm" alt="" </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,html,css" alt="" </p>
 
