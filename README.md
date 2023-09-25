@@ -24,5 +24,5 @@ In 2023, I continued my study into web development, leveraging the capabilities 
 
 
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,figma" alt="" </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,html,css,js,figma" alt="" </p>
 
