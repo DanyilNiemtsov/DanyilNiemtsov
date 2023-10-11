@@ -15,5 +15,5 @@
 
 
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,html,css,js,figma" alt="" </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,html,css,js,figma" alt=""></p>
 
