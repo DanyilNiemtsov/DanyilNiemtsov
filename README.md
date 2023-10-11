@@ -3,24 +3,17 @@
 </h1>
 <h3 align="center">A Front-End Enthusiast from New Zealand.</h3>
 
-
-<p align="justify">
-      My journey in web development began in 2019 when I undertook on a school project tasked with creating a website about the solar system using Google Sites. While I didn't delve into programming languages at that time, this project sparked my passion for web development. The process of crafting an engaging and functional website captured my interest and set me on a path to further explore this dynamic field.
-    </p>
-    <p align="justify">
-In 2023, I continued my study into web development, leveraging the capabilities of HTML, CSS, and JavaScript. My undertakings included the creation of a search engine and a personalized chat application, full with functionalities such as typing messages and uploading images. As time moves ahead, I seek to persist my dedication to exploring various aspects of web development, hoping to discover new possibilities and further refine my skill set.
-</p>
 <p align="center" style="display: flex; justify-content: center;">
 <img src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/ba5fb0e3-2557-4cce-a90d-5b4b486b1d6b"
         style="width: 45%; margin: 0 10px;" alt="Image 2">
     <img src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/80cf9d8b-1afe-472e-8e7c-76b838743340"
         style="width: 45%; margin: 0 10px;"
         alt="Image 1">
-    <img src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/e5b876d4-2a2a-4f8d-b8b7-78777e9dc0dd"
+    <img src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/a9ae3cd4-1278-4cbb-81f2-134c38210108"
+        style="width: 45%; margin: 0 10px;" alt="Image 2">
+        <img src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/28ac8639-b4c4-4c40-940e-16f9b9c05007"
         style="width: 45%; margin: 0 10px;" alt="Image 2">
 </p>
-
-
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,html,css,js,figma" alt="" </p>
 
