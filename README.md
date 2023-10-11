@@ -11,12 +11,13 @@
 In 2023, I continued my study into web development, leveraging the capabilities of HTML, CSS, and JavaScript. My undertakings included the creation of a search engine and a personalized chat application, full with functionalities such as typing messages and uploading images. As time moves ahead, I seek to persist my dedication to exploring various aspects of web development, hoping to discover new possibilities and further refine my skill set.
 </p>
 <p align="center" style="display: flex; justify-content: center;">
-    <img src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/6119885b-2cd2-4fd6-99dc-86ce4016a119"
-        style="width: 45%; margin: 0 100px; border-radius: 10px; box-shadow: 5px 5px rgb(51, 51, 51);"
+<img src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/ba5fb0e3-2557-4cce-a90d-5b4b486b1d6b"
+        style="width: 45%; margin: 0 10px;" alt="Image 2">
+    <img src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/80cf9d8b-1afe-472e-8e7c-76b838743340"
+        style="width: 45%; margin: 0 10px;"
         alt="Image 1">
-    <img src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/0264df32-d494-4ffe-810c-e9d8c92763ea"
-        style="width: 45%; margin: 0 100px; border-radius: 10px; box-shadow: 5px 5px rgb(51, 51, 51);"
-        alt="Image 2">
+    <img src="https://github.com/DanyilNiemtsov/DanyilNiemtsov/assets/142193142/e5b876d4-2a2a-4f8d-b8b7-78777e9dc0dd"
+        style="width: 45%; margin: 0 10px;" alt="Image 2">
 </p>
 
 
